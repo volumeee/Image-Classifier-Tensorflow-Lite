@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ML with TensorFlow Lite</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="launch_gallery">Launch Gallery</string>
+    <string name="classification_result">Classification Result</string>
+    <string name="image_view">Image View</string>
+</resources>
