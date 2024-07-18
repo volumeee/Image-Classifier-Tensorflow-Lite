@@ -52,6 +52,7 @@ The home screen provides two options:
 After taking a picture or selecting an image from the gallery, the application will display the image and the classification results, including the top 1, top 2, and top 3 predictions.
 
 ### Project Structure
+```bash
 .
 ├── app
 │   ├── src
@@ -72,6 +73,7 @@ After taking a picture or selecting an image from the gallery, the application w
 │   ├── model.tflite
 │   ├── labels.txt
 └── etc..
+```
 
 ### source
 - https://universe.roboflow.com/national-university-of-singapore-odcpk/fruit-classification-pvbax
