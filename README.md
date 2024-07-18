@@ -2,6 +2,9 @@
 
 Image Classifier TensorFlow Lite is a mobile application that allows users to classify images using a pre-trained TensorFlow Lite model. Users can take a picture or select an image from their gallery, and the app will provide classification results.
 
+## Custom model from ..
+https://teachablemachine.withgoogle.com/ 
+
 ## Features
 
 - [x] Take a picture using the device camera
